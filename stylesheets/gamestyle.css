@@ -29,9 +29,9 @@ img {
   border:1px solid grey;
   width:700px;
 
-  position:absolute;
-  top:340px;
-left:730px;
+  position:relative;
+  top:10px;
+left:10px;
 }
 
 }
