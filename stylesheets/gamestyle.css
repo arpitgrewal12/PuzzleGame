@@ -1,0 +1,45 @@
+/*
+//CSS file for the puzzle game
+//Created by:Arpit Kaur
+//SFU ID:301367803
+//Date:7 June 2020
+
+
+*/
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    height:50%;
+}
+
+td,
+th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+    height:50%;
+}
+tr{
+  width: 50%;
+  height:50%
+}
+img {
+  border:1px solid grey;
+  width:700px;
+
+  position:absolute;
+  top:340px;
+left:730px;
+}
+
+}
+
+.button{
+transition-duration:0.4s;
+}
+.button:hover{
+backgroundColor:lightgreen;
+color:white;
+}
