@@ -1,4 +1,4 @@
-# cmpt276A1
+# PuzzleGame
 In this assignment, we would like to implement a puzzle game using HTML tables, CSS, and JavaScript. This is a fully client-side application so you are only required to alter the ‘public’ folder of your Heroku app.
 DESCRIPTION:
 This puzzle is made up of a n by m table containing numbers are given at the top (and left side) of the table to indicate the number of unbroken “marked” lines in each column (and row). The player’s job is to solve the puzzle by filling the cells of the table accordingly. The following is an example of a puzzle along with its solution.
